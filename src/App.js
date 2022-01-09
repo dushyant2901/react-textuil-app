@@ -1,10 +1,10 @@
 
-import './App.css';
-
+import './App.css'
+import TextUtil from './component/TextUtil';
 function App() {
   return (
     <div className="App">
-      hello world
+     <TextUtil/>
     </div>
   );
 }
